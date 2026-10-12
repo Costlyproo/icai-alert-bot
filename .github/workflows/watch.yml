@@ -1,0 +1,58 @@
+name: ICAI batch watch
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"      # every 5 min (GitHub's minimum; runs can start a few minutes late)
+  workflow_dispatch:
+    inputs:
+      test_alert:
+        description: "Send a SAMPLE alert to check your Telegram sound (does not touch state)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: icai-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Check ICAI batch calendar
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CALLMEBOT_USER: ${{ secrets.CALLMEBOT_USER }}
+          TEST_ALERT: ${{ github.event_name == 'workflow_dispatch' && inputs.test_alert && '1' || '' }}
+        run: python watch.py
+
+      - name: Save state / history back to the repo
+        if: always()
+        run: |
+          git config user.name  "icai-watch-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for f in state.json history.csv heartbeat.txt; do if [ -f "$f" ]; then git add "$f"; fi; done
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "watch: $(TZ=Asia/Kolkata date '+%d-%b-%Y %H:%M IST')"
+          for i in 1 2 3; do
+            git pull --rebase --quiet && git push && exit 0
+            sleep $((i*5))
+          done
+          echo "push failed (will retry next run)"
