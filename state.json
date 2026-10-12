@@ -291,7 +291,8 @@
      "to": "03/12/2026"
     }
    },
-   "initialized": true
+   "initialized": true,
+   "last_check_ist": "12-Oct-2026 21:05:23 IST"
   },
   "SIKAR": {
    "batches": {
@@ -350,7 +351,8 @@
      "to": "03/12/2026"
     }
    },
-   "initialized": true
+   "initialized": true,
+   "last_check_ist": "12-Oct-2026 21:05:23 IST"
   },
   "VASAI": {
    "batches": {
@@ -661,9 +663,11 @@
      "to": "01/12/2026"
     }
    },
-   "initialized": true
+   "initialized": true,
+   "last_check_ist": "12-Oct-2026 21:05:23 IST"
   }
  },
  "fail_count": 0,
- "fail_warned": false
+ "fail_warned": false,
+ "last_error": null
 }
