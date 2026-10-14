@@ -292,7 +292,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "14-Oct-2026 21:29:17 IST"
+   "last_check_ist": "15-Oct-2026 01:38:40 IST"
   },
   "SIKAR": {
    "batches": {
@@ -352,46 +352,10 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "14-Oct-2026 21:29:17 IST"
+   "last_check_ist": "15-Oct-2026 01:38:40 IST"
   },
   "VASAI": {
    "batches": {
-    "AICITSSAdvITT__VASAI_90": {
-     "batch": "AICITSSAdvITT__VASAI_90",
-     "centre_entry": "VASAI",
-     "course": "AICITSS - Advanced Information Technology",
-     "course_key": "ADVITT",
-     "course_label": "Adv ITT (AICITSS - Advanced IT)",
-     "first_seen_ist": "09-Oct-2026 12:59:38 IST",
-     "from": "15/10/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "VASAI",
-     "reg_start": "26/08/2026",
-     "registered": 48,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "7-30-AM to 1-30-PM",
-     "to": "30/10/2026"
-    },
-    "AICITSSAdvITT__VASAI_91": {
-     "batch": "AICITSSAdvITT__VASAI_91",
-     "centre_entry": "VASAI",
-     "course": "AICITSS - Advanced Information Technology",
-     "course_key": "ADVITT",
-     "course_label": "Adv ITT (AICITSS - Advanced IT)",
-     "first_seen_ist": "09-Oct-2026 12:59:38 IST",
-     "from": "15/10/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "VASAI",
-     "reg_start": "26/08/2026",
-     "registered": 48,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "2-30-PM to 8-30-PM",
-     "to": "30/10/2026"
-    },
     "AICITSSAdvITT__VASAI_92": {
      "batch": "AICITSSAdvITT__VASAI_92",
      "centre_entry": "VASAI",
@@ -664,7 +628,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "14-Oct-2026 21:29:17 IST"
+   "last_check_ist": "15-Oct-2026 01:38:40 IST"
   }
  },
  "fail_count": 0,
