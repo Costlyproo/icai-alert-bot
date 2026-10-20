@@ -148,7 +148,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "20-Oct-2026 23:07:05 IST"
+   "last_check_ist": "21-Oct-2026 02:22:06 IST"
   },
   "SIKAR": {
    "batches": {
@@ -208,7 +208,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "20-Oct-2026 23:07:05 IST"
+   "last_check_ist": "21-Oct-2026 02:22:06 IST"
   },
   "VASAI": {
    "batches": {
@@ -320,78 +320,6 @@
      "timing": "2-30-PM to 8-30-PM",
      "to": "22/12/2026"
     },
-    "AdvICITSSMCS__VASAI_72": {
-     "batch": "AdvICITSSMCS__VASAI_72",
-     "centre_entry": "VASAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "09-Oct-2026 12:59:38 IST",
-     "from": "21/10/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "VASAI",
-     "reg_start": "04/09/2026",
-     "registered": 50,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "8-0-AM to 2-0-PM",
-     "to": "06/11/2026"
-    },
-    "AdvICITSSMCS__VASAI_73": {
-     "batch": "AdvICITSSMCS__VASAI_73",
-     "centre_entry": "VASAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "09-Oct-2026 12:59:38 IST",
-     "from": "21/10/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "VASAI",
-     "reg_start": "04/09/2026",
-     "registered": 50,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "3-0-PM to 9-0-PM",
-     "to": "06/11/2026"
-    },
-    "AdvICITSSMCS__VASAI_74": {
-     "batch": "AdvICITSSMCS__VASAI_74",
-     "centre_entry": "VASAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "09-Oct-2026 12:59:38 IST",
-     "from": "21/10/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "VASAI",
-     "reg_start": "09/09/2026",
-     "registered": 50,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "8-0-AM to 2-0-PM",
-     "to": "06/11/2026"
-    },
-    "AdvICITSSMCS__VASAI_75": {
-     "batch": "AdvICITSSMCS__VASAI_75",
-     "centre_entry": "VASAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "09-Oct-2026 12:59:38 IST",
-     "from": "21/10/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "VASAI",
-     "reg_start": "09/09/2026",
-     "registered": 50,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "3-0-PM to 9-0-PM",
-     "to": "06/11/2026"
-    },
     "AdvICITSSMCS__VASAI_76": {
      "batch": "AdvICITSSMCS__VASAI_76",
      "centre_entry": "VASAI",
@@ -428,24 +356,6 @@
      "timing": "3-0-PM to 9-0-PM",
      "to": "01/12/2026"
     },
-    "AdvICITSSMCS__VASAI_78": {
-     "batch": "AdvICITSSMCS__VASAI_78",
-     "centre_entry": "VASAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "09-Oct-2026 12:59:38 IST",
-     "from": "21/10/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "VASAI",
-     "reg_start": "22/09/2026",
-     "registered": 50,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "3-0-PM to 9-0-PM",
-     "to": "06/11/2026"
-    },
     "AdvICITSSMCS__VASAI_79": {
      "batch": "AdvICITSSMCS__VASAI_79",
      "centre_entry": "VASAI",
@@ -476,15 +386,15 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "06/10/2026",
-     "registered": 22,
-     "seats": 28,
+     "registered": 23,
+     "seats": 27,
      "status": "Registration Start",
      "timing": "3-0-PM to 9-0-PM",
      "to": "01/12/2026"
     }
    },
    "initialized": true,
-   "last_check_ist": "20-Oct-2026 23:07:05 IST"
+   "last_check_ist": "21-Oct-2026 02:22:06 IST"
   }
  },
  "fail_count": 0,
