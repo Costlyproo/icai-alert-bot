@@ -148,7 +148,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "23-Oct-2026 05:59:13 IST"
+   "last_check_ist": "23-Oct-2026 10:45:03 IST"
   },
   "SIKAR": {
    "batches": {
@@ -200,15 +200,15 @@
      "possibly_weekend": false,
      "pou": "SIKAR",
      "reg_start": "01/10/2026",
-     "registered": 30,
-     "seats": 10,
+     "registered": 31,
+     "seats": 9,
      "status": "Registration Start",
      "timing": "10-0-AM to 5-0-PM",
      "to": "03/12/2026"
     }
    },
    "initialized": true,
-   "last_check_ist": "23-Oct-2026 05:59:13 IST"
+   "last_check_ist": "23-Oct-2026 10:45:03 IST"
   },
   "VASAI": {
    "batches": {
@@ -430,7 +430,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "23-Oct-2026 05:59:13 IST"
+   "last_check_ist": "23-Oct-2026 10:45:03 IST"
   }
  },
  "fail_count": 0,
