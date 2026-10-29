@@ -158,8 +158,8 @@
      "possibly_weekend": false,
      "pou": "MUMBAI",
      "reg_start": "28/10/2026",
-     "registered": 32,
-     "seats": 3,
+     "registered": 33,
+     "seats": 2,
      "status": "Registration Start",
      "timing": "8-0-AM to 2-0-PM",
      "to": "03/12/2026"
@@ -184,7 +184,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "29-Oct-2026 17:57:52 IST"
+   "last_check_ist": "30-Oct-2026 00:06:46 IST"
   },
   "SIKAR": {
    "batches": {
@@ -244,7 +244,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "29-Oct-2026 17:57:52 IST"
+   "last_check_ist": "30-Oct-2026 00:06:46 IST"
   },
   "VASAI": {
    "batches": {
@@ -502,7 +502,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "29-Oct-2026 17:57:52 IST"
+   "last_check_ist": "30-Oct-2026 00:06:46 IST"
   }
  },
  "fail_count": 0,
