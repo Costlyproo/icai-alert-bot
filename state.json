@@ -140,9 +140,9 @@
      "possibly_weekend": false,
      "pou": "MUMBAI",
      "reg_start": "01/10/2026",
-     "registered": 44,
-     "seats": 1,
-     "status": "Registration Start",
+     "registered": 45,
+     "seats": 0,
+     "status": "Reg. Closed",
      "timing": "2-30-PM to 8-30-PM",
      "to": "03/12/2026"
     },
@@ -158,9 +158,9 @@
      "possibly_weekend": false,
      "pou": "MUMBAI",
      "reg_start": "28/10/2026",
-     "registered": 33,
-     "seats": 2,
-     "status": "Registration Start",
+     "registered": 35,
+     "seats": 0,
+     "status": "Reg. Closed",
      "timing": "8-0-AM to 2-0-PM",
      "to": "03/12/2026"
     },
@@ -176,15 +176,15 @@
      "possibly_weekend": false,
      "pou": "MUMBAI",
      "reg_start": "28/10/2026",
-     "registered": 10,
-     "seats": 25,
+     "registered": 14,
+     "seats": 20,
      "status": "Registration Start",
      "timing": "2-30-PM to 8-30-PM",
      "to": "03/12/2026"
     }
    },
    "initialized": true,
-   "last_check_ist": "30-Oct-2026 07:58:10 IST"
+   "last_check_ist": "30-Oct-2026 14:23:31 IST"
   },
   "SIKAR": {
    "batches": {
@@ -236,15 +236,15 @@
      "possibly_weekend": false,
      "pou": "SIKAR",
      "reg_start": "01/10/2026",
-     "registered": 31,
-     "seats": 9,
+     "registered": 32,
+     "seats": 8,
      "status": "Registration Start",
      "timing": "10-0-AM to 5-0-PM",
      "to": "03/12/2026"
     }
    },
    "initialized": true,
-   "last_check_ist": "30-Oct-2026 07:58:10 IST"
+   "last_check_ist": "30-Oct-2026 14:23:31 IST"
   },
   "VASAI": {
    "batches": {
@@ -458,8 +458,8 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "06/10/2026",
-     "registered": 43,
-     "seats": 7,
+     "registered": 45,
+     "seats": 5,
      "status": "Registration Start",
      "timing": "3-0-PM to 9-0-PM",
      "to": "01/12/2026"
@@ -494,15 +494,15 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "23/10/2026",
-     "registered": 20,
-     "seats": 30,
+     "registered": 21,
+     "seats": 29,
      "status": "Registration Start",
      "timing": "3-0-PM to 9-0-PM",
      "to": "19/12/2026"
     }
    },
    "initialized": true,
-   "last_check_ist": "30-Oct-2026 07:58:10 IST"
+   "last_check_ist": "30-Oct-2026 14:23:31 IST"
   }
  },
  "fail_count": 0,
