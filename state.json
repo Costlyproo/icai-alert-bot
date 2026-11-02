@@ -74,6 +74,42 @@
      "timing": "2-30-PM to 8-30-PM",
      "to": "28/11/2026"
     },
+    "AICITSSAdvITT__MUMBAI_177": {
+     "batch": "AICITSSAdvITT__MUMBAI_177",
+     "centre_entry": "MUMBAI",
+     "course": "AICITSS - Advanced Information Technology",
+     "course_key": "ADVITT",
+     "course_label": "Adv ITT (AICITSS - Advanced IT)",
+     "first_seen_ist": "02-Nov-2026 14:21:53 IST",
+     "from": "07/12/2026",
+     "open_for": "General",
+     "possibly_weekend": false,
+     "pou": "MUMBAI",
+     "reg_start": "02/11/2026",
+     "registered": 40,
+     "seats": 0,
+     "status": "Reg. Closed",
+     "timing": "8-0-AM to 2-0-PM",
+     "to": "23/12/2026"
+    },
+    "AICITSSAdvITT__MUMBAI_178": {
+     "batch": "AICITSSAdvITT__MUMBAI_178",
+     "centre_entry": "MUMBAI",
+     "course": "AICITSS - Advanced Information Technology",
+     "course_key": "ADVITT",
+     "course_label": "Adv ITT (AICITSS - Advanced IT)",
+     "first_seen_ist": "02-Nov-2026 14:21:53 IST",
+     "from": "07/12/2026",
+     "open_for": "General",
+     "possibly_weekend": false,
+     "pou": "MUMBAI",
+     "reg_start": "02/11/2026",
+     "registered": 40,
+     "seats": 0,
+     "status": "Reg. Closed",
+     "timing": "2-30-PM to 8-30-PM",
+     "to": "23/12/2026"
+    },
     "AdvICITSSMCS__MUMBAI_186": {
      "batch": "AdvICITSSMCS__MUMBAI_186",
      "centre_entry": "MUMBAI",
@@ -184,7 +220,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "02-Nov-2026 07:24:58 IST"
+   "last_check_ist": "02-Nov-2026 14:21:53 IST"
   },
   "SIKAR": {
    "batches": {
@@ -244,7 +280,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "02-Nov-2026 07:24:58 IST"
+   "last_check_ist": "02-Nov-2026 14:21:53 IST"
   },
   "VASAI": {
    "batches": {
@@ -278,7 +314,7 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "22/09/2026",
-     "registered": 48,
+     "registered": 49,
      "seats": 0,
      "status": "Reg. Closed",
      "timing": "2-30-PM to 8-30-PM",
@@ -458,15 +494,15 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "23/10/2026",
-     "registered": 22,
-     "seats": 28,
+     "registered": 26,
+     "seats": 24,
      "status": "Registration Start",
      "timing": "3-0-PM to 9-0-PM",
      "to": "19/12/2026"
     }
    },
    "initialized": true,
-   "last_check_ist": "02-Nov-2026 07:24:58 IST"
+   "last_check_ist": "02-Nov-2026 14:21:53 IST"
   }
  },
  "fail_count": 0,
