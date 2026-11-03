@@ -110,6 +110,42 @@
      "timing": "2-30-PM to 8-30-PM",
      "to": "23/12/2026"
     },
+    "AICITSSAdvITT__MUMBAI_179": {
+     "batch": "AICITSSAdvITT__MUMBAI_179",
+     "centre_entry": "MUMBAI",
+     "course": "AICITSS - Advanced Information Technology",
+     "course_key": "ADVITT",
+     "course_label": "Adv ITT (AICITSS - Advanced IT)",
+     "first_seen_ist": "03-Nov-2026 13:57:55 IST",
+     "from": "07/12/2026",
+     "open_for": "General",
+     "possibly_weekend": false,
+     "pou": "MUMBAI",
+     "reg_start": "03/11/2026",
+     "registered": 40,
+     "seats": 0,
+     "status": "Reg. Closed",
+     "timing": "8-0-AM to 2-0-PM",
+     "to": "23/12/2026"
+    },
+    "AICITSSAdvITT__MUMBAI_180": {
+     "batch": "AICITSSAdvITT__MUMBAI_180",
+     "centre_entry": "MUMBAI",
+     "course": "AICITSS - Advanced Information Technology",
+     "course_key": "ADVITT",
+     "course_label": "Adv ITT (AICITSS - Advanced IT)",
+     "first_seen_ist": "03-Nov-2026 13:57:55 IST",
+     "from": "07/12/2026",
+     "open_for": "General",
+     "possibly_weekend": false,
+     "pou": "MUMBAI",
+     "reg_start": "03/11/2026",
+     "registered": 40,
+     "seats": 0,
+     "status": "Reg. Closed",
+     "timing": "2-30-PM to 8-30-PM",
+     "to": "23/12/2026"
+    },
     "AdvICITSSMCS__MUMBAI_186": {
      "batch": "AdvICITSSMCS__MUMBAI_186",
      "centre_entry": "MUMBAI",
@@ -220,7 +256,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "03-Nov-2026 06:58:14 IST"
+   "last_check_ist": "03-Nov-2026 13:57:55 IST"
   },
   "SIKAR": {
    "batches": {
@@ -280,7 +316,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "03-Nov-2026 06:58:14 IST"
+   "last_check_ist": "03-Nov-2026 13:57:55 IST"
   },
   "VASAI": {
    "batches": {
@@ -494,15 +530,15 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "23/10/2026",
-     "registered": 45,
-     "seats": 5,
+     "registered": 48,
+     "seats": 2,
      "status": "Registration Start",
      "timing": "3-0-PM to 9-0-PM",
      "to": "19/12/2026"
     }
    },
    "initialized": true,
-   "last_check_ist": "03-Nov-2026 06:58:14 IST"
+   "last_check_ist": "03-Nov-2026 13:57:55 IST"
   }
  },
  "fail_count": 0,
