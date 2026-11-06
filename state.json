@@ -284,15 +284,15 @@
      "possibly_weekend": false,
      "pou": "MUMBAI",
      "reg_start": "04/11/2026",
-     "registered": 34,
-     "seats": 11,
+     "registered": 38,
+     "seats": 6,
      "status": "Registration Start",
      "timing": "2-30-PM to 8-30-PM",
      "to": "24/12/2026"
     }
    },
    "initialized": true,
-   "last_check_ist": "06-Nov-2026 08:24:20 IST"
+   "last_check_ist": "06-Nov-2026 15:49:24 IST"
   },
   "SIKAR": {
    "batches": {
@@ -352,7 +352,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "06-Nov-2026 08:24:20 IST"
+   "last_check_ist": "06-Nov-2026 15:49:24 IST"
   },
   "VASAI": {
    "batches": {
@@ -548,9 +548,9 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "23/10/2026",
-     "registered": 50,
-     "seats": 0,
-     "status": "Reg. Closed",
+     "registered": 49,
+     "seats": 1,
+     "status": "Registration Start",
      "timing": "8-0-AM to 2-0-PM",
      "to": "19/12/2026"
     },
@@ -566,8 +566,8 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "23/10/2026",
-     "registered": 48,
-     "seats": 2,
+     "registered": 47,
+     "seats": 3,
      "status": "Registration Start",
      "timing": "3-0-PM to 9-0-PM",
      "to": "19/12/2026"
@@ -584,8 +584,8 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "04/11/2026",
-     "registered": 18,
-     "seats": 32,
+     "registered": 23,
+     "seats": 27,
      "status": "Registration Start",
      "timing": "8-0-AM to 2-0-PM",
      "to": "19/12/2026"
@@ -620,8 +620,8 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "04/11/2026",
-     "registered": 9,
-     "seats": 41,
+     "registered": 10,
+     "seats": 40,
      "status": "Not Started",
      "timing": "8-0-AM to 2-0-PM",
      "to": "09/01/2027"
@@ -646,7 +646,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "06-Nov-2026 08:24:20 IST"
+   "last_check_ist": "06-Nov-2026 15:49:24 IST"
   }
  },
  "fail_count": 0,
