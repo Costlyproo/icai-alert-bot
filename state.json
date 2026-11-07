@@ -14,7 +14,7 @@
      "possibly_weekend": false,
      "pou": "MUMBAI",
      "reg_start": "01/10/2026",
-     "registered": 40,
+     "registered": 42,
      "seats": 0,
      "status": "Reg. Closed",
      "timing": "8-0-AM to 2-0-PM",
@@ -32,7 +32,7 @@
      "possibly_weekend": false,
      "pou": "MUMBAI",
      "reg_start": "01/10/2026",
-     "registered": 40,
+     "registered": 42,
      "seats": 0,
      "status": "Reg. Closed",
      "timing": "2-30-PM to 8-30-PM",
@@ -292,7 +292,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "07-Nov-2026 07:34:51 IST"
+   "last_check_ist": "07-Nov-2026 14:11:18 IST"
   },
   "SIKAR": {
    "batches": {
@@ -352,7 +352,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "07-Nov-2026 07:34:51 IST"
+   "last_check_ist": "07-Nov-2026 14:11:18 IST"
   },
   "VASAI": {
    "batches": {
@@ -404,7 +404,7 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "07/10/2026",
-     "registered": 48,
+     "registered": 49,
      "seats": 0,
      "status": "Reg. Closed",
      "timing": "7-30-AM to 1-30-PM",
@@ -530,8 +530,8 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "06/10/2026",
-     "registered": 48,
-     "seats": 2,
+     "registered": 49,
+     "seats": 1,
      "status": "Registration Start",
      "timing": "3-0-PM to 9-0-PM",
      "to": "01/12/2026"
@@ -548,9 +548,9 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "23/10/2026",
-     "registered": 49,
-     "seats": 1,
-     "status": "Registration Start",
+     "registered": 50,
+     "seats": 0,
+     "status": "Reg. Closed",
      "timing": "8-0-AM to 2-0-PM",
      "to": "19/12/2026"
     },
@@ -584,8 +584,8 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "04/11/2026",
-     "registered": 25,
-     "seats": 25,
+     "registered": 27,
+     "seats": 23,
      "status": "Registration Start",
      "timing": "8-0-AM to 2-0-PM",
      "to": "19/12/2026"
@@ -646,7 +646,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "07-Nov-2026 07:34:51 IST"
+   "last_check_ist": "07-Nov-2026 14:11:18 IST"
   }
  },
  "fail_count": 0,
