@@ -15,8 +15,8 @@
      "pou": "MUMBAI",
      "reg_start": "01/10/2026",
      "registered": 42,
-     "seats": 0,
-     "status": "Reg. Closed",
+     "seats": 3,
+     "status": "",
      "timing": "8-0-AM to 2-0-PM",
      "to": "28/11/2026"
     },
@@ -33,8 +33,8 @@
      "pou": "MUMBAI",
      "reg_start": "01/10/2026",
      "registered": 42,
-     "seats": 0,
-     "status": "Reg. Closed",
+     "seats": 3,
+     "status": "",
      "timing": "2-30-PM to 8-30-PM",
      "to": "28/11/2026"
     },
@@ -194,7 +194,7 @@
      "possibly_weekend": false,
      "pou": "MUMBAI",
      "reg_start": "01/10/2026",
-     "registered": 46,
+     "registered": 48,
      "seats": 2,
      "status": "Registration Start",
      "timing": "8-0-AM to 2-0-PM",
@@ -230,9 +230,9 @@
      "possibly_weekend": false,
      "pou": "MUMBAI",
      "reg_start": "28/10/2026",
-     "registered": 49,
-     "seats": 1,
-     "status": "Registration Start",
+     "registered": 50,
+     "seats": 0,
+     "status": "Reg. Closed",
      "timing": "8-0-AM to 2-0-PM",
      "to": "03/12/2026"
     },
@@ -248,9 +248,9 @@
      "possibly_weekend": false,
      "pou": "MUMBAI",
      "reg_start": "28/10/2026",
-     "registered": 50,
-     "seats": 0,
-     "status": "Reg. Closed",
+     "registered": 49,
+     "seats": 1,
+     "status": "Registration Start",
      "timing": "2-30-PM to 8-30-PM",
      "to": "03/12/2026"
     },
@@ -292,7 +292,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "11-Nov-2026 08:58:24 IST"
+   "last_check_ist": "11-Nov-2026 16:53:41 IST"
   },
   "SIKAR": {
    "batches": {
@@ -352,7 +352,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "11-Nov-2026 08:58:24 IST"
+   "last_check_ist": "11-Nov-2026 16:53:41 IST"
   },
   "VASAI": {
    "batches": {
@@ -584,8 +584,8 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "04/11/2026",
-     "registered": 41,
-     "seats": 9,
+     "registered": 42,
+     "seats": 8,
      "status": "Registration Start",
      "timing": "8-0-AM to 2-0-PM",
      "to": "19/12/2026"
@@ -646,7 +646,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "11-Nov-2026 08:58:24 IST"
+   "last_check_ist": "11-Nov-2026 16:53:41 IST"
   }
  },
  "fail_count": 0,
