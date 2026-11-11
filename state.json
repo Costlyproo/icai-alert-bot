@@ -2,78 +2,6 @@
  "centres": {
   "MUMBAI": {
    "batches": {
-    "AICITSSAdvITT__MUMBAI_173": {
-     "batch": "AICITSSAdvITT__MUMBAI_173",
-     "centre_entry": "MUMBAI",
-     "course": "AICITSS - Advanced Information Technology",
-     "course_key": "ADVITT",
-     "course_label": "Adv ITT (AICITSS - Advanced IT)",
-     "first_seen_ist": "11-Oct-2026 08:53:10 IST",
-     "from": "12/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "MUMBAI",
-     "reg_start": "01/10/2026",
-     "registered": 42,
-     "seats": 3,
-     "status": "",
-     "timing": "8-0-AM to 2-0-PM",
-     "to": "28/11/2026"
-    },
-    "AICITSSAdvITT__MUMBAI_174": {
-     "batch": "AICITSSAdvITT__MUMBAI_174",
-     "centre_entry": "MUMBAI",
-     "course": "AICITSS - Advanced Information Technology",
-     "course_key": "ADVITT",
-     "course_label": "Adv ITT (AICITSS - Advanced IT)",
-     "first_seen_ist": "11-Oct-2026 08:53:10 IST",
-     "from": "12/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "MUMBAI",
-     "reg_start": "01/10/2026",
-     "registered": 42,
-     "seats": 3,
-     "status": "",
-     "timing": "2-30-PM to 8-30-PM",
-     "to": "28/11/2026"
-    },
-    "AICITSSAdvITT__MUMBAI_175": {
-     "batch": "AICITSSAdvITT__MUMBAI_175",
-     "centre_entry": "MUMBAI",
-     "course": "AICITSS - Advanced Information Technology",
-     "course_key": "ADVITT",
-     "course_label": "Adv ITT (AICITSS - Advanced IT)",
-     "first_seen_ist": "11-Oct-2026 08:53:10 IST",
-     "from": "12/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "MUMBAI",
-     "reg_start": "01/10/2026",
-     "registered": 43,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "8-0-AM to 2-0-PM",
-     "to": "28/11/2026"
-    },
-    "AICITSSAdvITT__MUMBAI_176": {
-     "batch": "AICITSSAdvITT__MUMBAI_176",
-     "centre_entry": "MUMBAI",
-     "course": "AICITSS - Advanced Information Technology",
-     "course_key": "ADVITT",
-     "course_label": "Adv ITT (AICITSS - Advanced IT)",
-     "first_seen_ist": "11-Oct-2026 08:53:10 IST",
-     "from": "12/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "MUMBAI",
-     "reg_start": "01/10/2026",
-     "registered": 43,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "2-30-PM to 8-30-PM",
-     "to": "28/11/2026"
-    },
     "AICITSSAdvITT__MUMBAI_177": {
      "batch": "AICITSSAdvITT__MUMBAI_177",
      "centre_entry": "MUMBAI",
@@ -146,114 +74,6 @@
      "timing": "2-30-PM to 8-30-PM",
      "to": "23/12/2026"
     },
-    "AdvICITSSMCS__MUMBAI_186": {
-     "batch": "AdvICITSSMCS__MUMBAI_186",
-     "centre_entry": "MUMBAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "11-Oct-2026 08:53:10 IST",
-     "from": "12/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "MUMBAI",
-     "reg_start": "01/10/2026",
-     "registered": 50,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "8-0-AM to 2-0-PM",
-     "to": "03/12/2026"
-    },
-    "AdvICITSSMCS__MUMBAI_187": {
-     "batch": "AdvICITSSMCS__MUMBAI_187",
-     "centre_entry": "MUMBAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "11-Oct-2026 08:53:10 IST",
-     "from": "12/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "MUMBAI",
-     "reg_start": "01/10/2026",
-     "registered": 46,
-     "seats": 4,
-     "status": "Registration Start",
-     "timing": "2-30-PM to 8-30-PM",
-     "to": "03/12/2026"
-    },
-    "AdvICITSSMCS__MUMBAI_188": {
-     "batch": "AdvICITSSMCS__MUMBAI_188",
-     "centre_entry": "MUMBAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "11-Oct-2026 08:53:10 IST",
-     "from": "12/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "MUMBAI",
-     "reg_start": "01/10/2026",
-     "registered": 48,
-     "seats": 2,
-     "status": "Registration Start",
-     "timing": "8-0-AM to 2-0-PM",
-     "to": "03/12/2026"
-    },
-    "AdvICITSSMCS__MUMBAI_189": {
-     "batch": "AdvICITSSMCS__MUMBAI_189",
-     "centre_entry": "MUMBAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "11-Oct-2026 08:53:10 IST",
-     "from": "12/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "MUMBAI",
-     "reg_start": "01/10/2026",
-     "registered": 46,
-     "seats": 2,
-     "status": "Registration Start",
-     "timing": "2-30-PM to 8-30-PM",
-     "to": "03/12/2026"
-    },
-    "AdvICITSSMCS__MUMBAI_190": {
-     "batch": "AdvICITSSMCS__MUMBAI_190",
-     "centre_entry": "MUMBAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "28-Oct-2026 14:07:10 IST",
-     "from": "12/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "MUMBAI",
-     "reg_start": "28/10/2026",
-     "registered": 50,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "8-0-AM to 2-0-PM",
-     "to": "03/12/2026"
-    },
-    "AdvICITSSMCS__MUMBAI_191": {
-     "batch": "AdvICITSSMCS__MUMBAI_191",
-     "centre_entry": "MUMBAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "28-Oct-2026 14:07:10 IST",
-     "from": "12/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "MUMBAI",
-     "reg_start": "28/10/2026",
-     "registered": 49,
-     "seats": 1,
-     "status": "Registration Start",
-     "timing": "2-30-PM to 8-30-PM",
-     "to": "03/12/2026"
-    },
     "AdvICITSSMCS__MUMBAI_192": {
      "batch": "AdvICITSSMCS__MUMBAI_192",
      "centre_entry": "MUMBAI",
@@ -292,7 +112,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "11-Nov-2026 16:53:41 IST"
+   "last_check_ist": "12-Nov-2026 00:18:19 IST"
   },
   "SIKAR": {
    "batches": {
@@ -352,7 +172,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "11-Nov-2026 16:53:41 IST"
+   "last_check_ist": "12-Nov-2026 00:18:19 IST"
   },
   "VASAI": {
    "batches": {
@@ -584,8 +404,8 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "04/11/2026",
-     "registered": 42,
-     "seats": 8,
+     "registered": 44,
+     "seats": 6,
      "status": "Registration Start",
      "timing": "8-0-AM to 2-0-PM",
      "to": "19/12/2026"
@@ -646,7 +466,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "11-Nov-2026 16:53:41 IST"
+   "last_check_ist": "12-Nov-2026 00:18:19 IST"
   }
  },
  "fail_count": 0,
