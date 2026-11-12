@@ -469,7 +469,7 @@
    "last_check_ist": "12-Nov-2026 00:18:19 IST"
   }
  },
- "fail_count": 0,
+ "fail_count": 1,
  "fail_warned": false,
- "last_error": null
+ "last_error": "12-Nov-2026 06:34:30 IST: MUMBAI: fetch failed after 2 attempts: SSLError(MaxRetryError(\"HTTPSConnectionPool(host='www.icaionlineregistration.org', port=443): Max retries exceeded with url: /LaunchBatchDetail.aspx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)')))\")); VASAI: fetch failed after 2 attempts: SSLError(MaxRetryError(\"HTTPSConnectionPool(host='www.icaionlineregistration.org', port=443): Max retries exceeded with url: /LaunchBatchDetail.aspx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)')))\")); SIKAR: fetch failed after 2 attempts: SSLError(MaxRetryError(\"HTTPSConnectionPool(host='www.icaionlineregistration.org', port=443): Max retries exceeded with url: /LaunchBatchDetail.aspx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)')))\"))"
 }
