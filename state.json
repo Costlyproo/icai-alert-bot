@@ -112,7 +112,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "12-Nov-2026 22:20:30 IST"
+   "last_check_ist": "13-Nov-2026 03:58:30 IST"
   },
   "SIKAR": {
    "batches": {
@@ -172,7 +172,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "12-Nov-2026 22:20:30 IST"
+   "last_check_ist": "13-Nov-2026 03:58:30 IST"
   },
   "VASAI": {
    "batches": {
@@ -284,78 +284,6 @@
      "timing": "2-30-PM to 8-30-PM",
      "to": "09/01/2027"
     },
-    "AdvICITSSMCS__VASAI_76": {
-     "batch": "AdvICITSSMCS__VASAI_76",
-     "centre_entry": "VASAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "09-Oct-2026 12:59:38 IST",
-     "from": "13/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "VASAI",
-     "reg_start": "17/09/2026",
-     "registered": 50,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "8-0-AM to 2-0-PM",
-     "to": "01/12/2026"
-    },
-    "AdvICITSSMCS__VASAI_77": {
-     "batch": "AdvICITSSMCS__VASAI_77",
-     "centre_entry": "VASAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "09-Oct-2026 12:59:38 IST",
-     "from": "13/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "VASAI",
-     "reg_start": "17/09/2026",
-     "registered": 50,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "3-0-PM to 9-0-PM",
-     "to": "01/12/2026"
-    },
-    "AdvICITSSMCS__VASAI_79": {
-     "batch": "AdvICITSSMCS__VASAI_79",
-     "centre_entry": "VASAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "09-Oct-2026 12:59:38 IST",
-     "from": "13/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "VASAI",
-     "reg_start": "06/10/2026",
-     "registered": 50,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "8-0-AM to 2-0-PM",
-     "to": "01/12/2026"
-    },
-    "AdvICITSSMCS__VASAI_80": {
-     "batch": "AdvICITSSMCS__VASAI_80",
-     "centre_entry": "VASAI",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "09-Oct-2026 12:59:38 IST",
-     "from": "13/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "VASAI",
-     "reg_start": "06/10/2026",
-     "registered": 49,
-     "seats": 1,
-     "status": "Registration Start",
-     "timing": "3-0-PM to 9-0-PM",
-     "to": "01/12/2026"
-    },
     "AdvICITSSMCS__VASAI_81": {
      "batch": "AdvICITSSMCS__VASAI_81",
      "centre_entry": "VASAI",
@@ -466,7 +394,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "12-Nov-2026 22:20:30 IST"
+   "last_check_ist": "13-Nov-2026 03:58:30 IST"
   }
  },
  "fail_count": 0,
