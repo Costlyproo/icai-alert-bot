@@ -112,7 +112,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "12-Nov-2026 13:43:03 IST"
+   "last_check_ist": "12-Nov-2026 22:20:30 IST"
   },
   "SIKAR": {
    "batches": {
@@ -128,7 +128,7 @@
      "possibly_weekend": false,
      "pou": "SIKAR",
      "reg_start": "05/10/2026",
-     "registered": 16,
+     "registered": 17,
      "seats": 0,
      "status": "Reg. Closed",
      "timing": "10-0-AM to 4-0-PM",
@@ -172,7 +172,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "12-Nov-2026 13:43:03 IST"
+   "last_check_ist": "12-Nov-2026 22:20:30 IST"
   },
   "VASAI": {
    "batches": {
@@ -350,8 +350,8 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "06/10/2026",
-     "registered": 47,
-     "seats": 3,
+     "registered": 49,
+     "seats": 1,
      "status": "Registration Start",
      "timing": "3-0-PM to 9-0-PM",
      "to": "01/12/2026"
@@ -458,15 +458,15 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "04/11/2026",
-     "registered": 5,
-     "seats": 45,
+     "registered": 6,
+     "seats": 44,
      "status": "Not Started",
      "timing": "3-0-PM to 9-0-PM",
      "to": "09/01/2027"
     }
    },
    "initialized": true,
-   "last_check_ist": "12-Nov-2026 13:43:03 IST"
+   "last_check_ist": "12-Nov-2026 22:20:30 IST"
   }
  },
  "fail_count": 0,

@@ -191,3 +191,5 @@ seen_ist,centre,course,batch,seats_left,registered,from,to,timing,reg_start,stat
 12-Nov-2026 00:18:19 IST,VASAI,MCS,AdvICITSSMCS__VASAI_83,6,44,03/12/2026,19/12/2026,8-0-AM to 2-0-PM,04/11/2026,Registration Start,seats_change
 12-Nov-2026 13:43:03 IST,VASAI,MCS,AdvICITSSMCS__VASAI_80,3,47,13/11/2026,01/12/2026,3-0-PM to 9-0-PM,06/10/2026,Registration Start,reopened
 12-Nov-2026 13:43:03 IST,VASAI,MCS,AdvICITSSMCS__VASAI_83,4,46,03/12/2026,19/12/2026,8-0-AM to 2-0-PM,04/11/2026,Registration Start,seats_change
+12-Nov-2026 22:20:30 IST,VASAI,MCS,AdvICITSSMCS__VASAI_80,1,49,13/11/2026,01/12/2026,3-0-PM to 9-0-PM,06/10/2026,Registration Start,seats_change
+12-Nov-2026 22:20:30 IST,VASAI,MCS,AdvICITSSMCS__VASAI_86,44,6,23/12/2026,09/01/2027,3-0-PM to 9-0-PM,04/11/2026,Not Started,seats_change
