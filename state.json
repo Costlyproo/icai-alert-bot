@@ -140,15 +140,15 @@
      "possibly_weekend": false,
      "pou": "MUMBAI",
      "reg_start": "13/11/2026",
-     "registered": 2,
-     "seats": 48,
+     "registered": 3,
+     "seats": 47,
      "status": "Registration Start",
      "timing": "2-30-PM to 8-30-PM",
      "to": "24/12/2026"
     }
    },
    "initialized": true,
-   "last_check_ist": "15-Nov-2026 19:54:12 IST"
+   "last_check_ist": "16-Nov-2026 01:23:35 IST"
   },
   "SIKAR": {
    "batches": {
@@ -187,28 +187,10 @@
      "status": "Reg. Closed",
      "timing": "10-0-AM to 4-0-PM",
      "to": "11/01/2027"
-    },
-    "AdvICITSSMCS__SIKAR_10": {
-     "batch": "AdvICITSSMCS__SIKAR_10",
-     "centre_entry": "SIKAR",
-     "course": "Advanced (ICITSS) MCS Course",
-     "course_key": "MCS",
-     "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
-     "first_seen_ist": "11-Oct-2026 08:53:10 IST",
-     "from": "16/11/2026",
-     "open_for": "General",
-     "possibly_weekend": false,
-     "pou": "SIKAR",
-     "reg_start": "01/10/2026",
-     "registered": 44,
-     "seats": 0,
-     "status": "Reg. Closed",
-     "timing": "10-0-AM to 5-0-PM",
-     "to": "03/12/2026"
     }
    },
    "initialized": true,
-   "last_check_ist": "15-Nov-2026 19:54:12 IST"
+   "last_check_ist": "16-Nov-2026 01:23:35 IST"
   },
   "VASAI": {
    "batches": {
@@ -466,7 +448,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "15-Nov-2026 19:54:12 IST"
+   "last_check_ist": "16-Nov-2026 01:23:35 IST"
   }
  },
  "fail_count": 0,
