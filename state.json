@@ -74,6 +74,42 @@
      "timing": "2-30-PM to 8-30-PM",
      "to": "23/12/2026"
     },
+    "AICITSSAdvITT__MUMBAI_181": {
+     "batch": "AICITSSAdvITT__MUMBAI_181",
+     "centre_entry": "MUMBAI",
+     "course": "AICITSS - Advanced Information Technology",
+     "course_key": "ADVITT",
+     "course_label": "Adv ITT (AICITSS - Advanced IT)",
+     "first_seen_ist": "16-Nov-2026 16:42:22 IST",
+     "from": "07/12/2026",
+     "open_for": "General",
+     "possibly_weekend": false,
+     "pou": "MUMBAI",
+     "reg_start": "16/11/2026",
+     "registered": 30,
+     "seats": 0,
+     "status": "Reg. Closed",
+     "timing": "8-0-AM to 2-0-PM",
+     "to": "23/12/2026"
+    },
+    "AICITSSAdvITT__MUMBAI_182": {
+     "batch": "AICITSSAdvITT__MUMBAI_182",
+     "centre_entry": "MUMBAI",
+     "course": "AICITSS - Advanced Information Technology",
+     "course_key": "ADVITT",
+     "course_label": "Adv ITT (AICITSS - Advanced IT)",
+     "first_seen_ist": "16-Nov-2026 16:42:22 IST",
+     "from": "07/12/2026",
+     "open_for": "General",
+     "possibly_weekend": false,
+     "pou": "MUMBAI",
+     "reg_start": "16/11/2026",
+     "registered": 30,
+     "seats": 0,
+     "status": "Reg. Closed",
+     "timing": "2-30-PM to 8-30-PM",
+     "to": "23/12/2026"
+    },
     "AdvICITSSMCS__MUMBAI_192": {
      "batch": "AdvICITSSMCS__MUMBAI_192",
      "centre_entry": "MUMBAI",
@@ -122,8 +158,8 @@
      "possibly_weekend": false,
      "pou": "MUMBAI",
      "reg_start": "13/11/2026",
-     "registered": 18,
-     "seats": 32,
+     "registered": 23,
+     "seats": 26,
      "status": "Registration Start",
      "timing": "8-0-AM to 2-0-PM",
      "to": "24/12/2026"
@@ -148,7 +184,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "16-Nov-2026 08:39:31 IST"
+   "last_check_ist": "16-Nov-2026 16:42:22 IST"
   },
   "SIKAR": {
    "batches": {
@@ -182,15 +218,33 @@
      "possibly_weekend": false,
      "pou": "SIKAR",
      "reg_start": "05/10/2026",
-     "registered": 15,
+     "registered": 16,
      "seats": 0,
      "status": "Reg. Closed",
      "timing": "10-0-AM to 4-0-PM",
      "to": "11/01/2027"
+    },
+    "AICITSSAdvITT__SIKAR_16": {
+     "batch": "AICITSSAdvITT__SIKAR_16",
+     "centre_entry": "SIKAR",
+     "course": "AICITSS - Advanced Information Technology",
+     "course_key": "ADVITT",
+     "course_label": "Adv ITT (AICITSS - Advanced IT)",
+     "first_seen_ist": "16-Nov-2026 16:42:22 IST",
+     "from": "18/01/2027",
+     "open_for": "General",
+     "possibly_weekend": false,
+     "pou": "SIKAR",
+     "reg_start": "16/11/2026",
+     "registered": 10,
+     "seats": 5,
+     "status": "",
+     "timing": "10-0-AM to 4-0-PM",
+     "to": "04/02/2027"
     }
    },
    "initialized": true,
-   "last_check_ist": "16-Nov-2026 08:39:31 IST"
+   "last_check_ist": "16-Nov-2026 16:42:22 IST"
   },
   "VASAI": {
    "batches": {
@@ -386,8 +440,8 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "04/11/2026",
-     "registered": 46,
-     "seats": 4,
+     "registered": 47,
+     "seats": 3,
      "status": "Registration Start",
      "timing": "8-0-AM to 2-0-PM",
      "to": "19/12/2026"
@@ -422,8 +476,8 @@
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "04/11/2026",
-     "registered": 16,
-     "seats": 34,
+     "registered": 17,
+     "seats": 33,
      "status": "Registration Start",
      "timing": "8-0-AM to 2-0-PM",
      "to": "09/01/2027"
@@ -448,7 +502,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "16-Nov-2026 08:39:31 IST"
+   "last_check_ist": "16-Nov-2026 16:42:22 IST"
   }
  },
  "fail_count": 0,
