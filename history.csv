@@ -245,3 +245,5 @@ seen_ist,centre,course,batch,seats_left,registered,from,to,timing,reg_start,stat
 19-Nov-2026 23:39:58 IST,MUMBAI,MCS,AdvICITSSMCS__MUMBAI_195,38,7,07/12/2026,24/12/2026,8-0-AM to 2-0-PM,13/11/2026,Registration Start,seats_change
 19-Nov-2026 23:39:58 IST,VASAI,MCS,AdvICITSSMCS__VASAI_85,28,22,23/12/2026,09/01/2027,8-0-AM to 2-0-PM,04/11/2026,Registration Start,seats_change
 20-Nov-2026 06:06:23 IST,MUMBAI,MCS,AdvICITSSMCS__MUMBAI_195,37,8,07/12/2026,24/12/2026,8-0-AM to 2-0-PM,13/11/2026,Registration Start,seats_change
+20-Nov-2026 13:14:03 IST,MUMBAI,MCS,AdvICITSSMCS__MUMBAI_195,38,7,07/12/2026,24/12/2026,8-0-AM to 2-0-PM,13/11/2026,Registration Start,seats_change
+20-Nov-2026 13:14:03 IST,SIKAR,ADVITT,AICITSSAdvITT__SIKAR_16,0,15,18/01/2027,04/02/2027,10-0-AM to 4-0-PM,16/11/2026,Reg. Closed,seats_change
