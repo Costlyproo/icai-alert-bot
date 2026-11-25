@@ -176,15 +176,15 @@
      "possibly_weekend": false,
      "pou": "MUMBAI",
      "reg_start": "13/11/2026",
-     "registered": 19,
-     "seats": 26,
+     "registered": 31,
+     "seats": 14,
      "status": "Registration Start",
      "timing": "8-0-AM to 2-0-PM",
      "to": "24/12/2026"
     }
    },
    "initialized": true,
-   "last_check_ist": "25-Nov-2026 10:03:18 IST"
+   "last_check_ist": "25-Nov-2026 20:22:37 IST"
   },
   "SIKAR": {
    "batches": {
@@ -244,7 +244,7 @@
     }
    },
    "initialized": true,
-   "last_check_ist": "25-Nov-2026 10:03:18 IST"
+   "last_check_ist": "25-Nov-2026 20:22:37 IST"
   },
   "VASAI": {
    "batches": {
@@ -417,16 +417,16 @@
      "course_key": "MCS",
      "course_label": "MCS (Advanced ICITSS MCS, non-weekend)",
      "first_seen_ist": "04-Nov-2026 13:40:21 IST",
-     "from": "03/12/2026",
+     "from": "13/01/2027",
      "open_for": "General",
      "possibly_weekend": false,
      "pou": "VASAI",
      "reg_start": "04/11/2026",
-     "registered": 9,
-     "seats": 41,
-     "status": "Registration Start",
-     "timing": "3-0-PM to 9-0-PM",
-     "to": "19/12/2026"
+     "registered": 10,
+     "seats": 40,
+     "status": "Not Started",
+     "timing": "8-0-AM to 2-0-PM",
+     "to": "30/01/2027"
     },
     "AdvICITSSMCS__VASAI_85": {
      "batch": "AdvICITSSMCS__VASAI_85",
@@ -460,13 +460,13 @@
      "reg_start": "04/11/2026",
      "registered": 6,
      "seats": 44,
-     "status": "Not Started",
+     "status": "Registration Start",
      "timing": "3-0-PM to 9-0-PM",
      "to": "09/01/2027"
     }
    },
    "initialized": true,
-   "last_check_ist": "25-Nov-2026 10:03:18 IST"
+   "last_check_ist": "25-Nov-2026 20:22:37 IST"
   }
  },
  "fail_count": 0,
